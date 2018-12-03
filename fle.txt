@@ -1,4 +1,4 @@
-62742070535
+git log --pretty=format:"%h %s" --graph
 
-hahah
+git git-merge "branch-name"
 
